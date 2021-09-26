@@ -1,0 +1,14 @@
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\bin\Debug\netcoreapp3.1\SortingScript.exe
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\bin\Debug\netcoreapp3.1\SortingScript.deps.json
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\bin\Debug\netcoreapp3.1\SortingScript.runtimeconfig.json
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\bin\Debug\netcoreapp3.1\SortingScript.runtimeconfig.dev.json
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\bin\Debug\netcoreapp3.1\SortingScript.dll
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\bin\Debug\netcoreapp3.1\SortingScript.pdb
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.csproj.AssemblyReference.cache
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.AssemblyInfoInputs.cache
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.AssemblyInfo.cs
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.csproj.CoreCompileInputs.cache
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.dll
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.pdb
+C:\Users\Pasca Madalin\source\repos\SortingScript\SortingScript\obj\Debug\netcoreapp3.1\SortingScript.genruntimeconfig.cache
